@@ -341,9 +341,12 @@ header {
         margin-right: auto;
     }
 
-    .service + .service {
-        margin-left: 2em;
-    }
+    /* .service + .service {
+        margin: 0 2em;
+    } */
+
+    .service {
+        margin: 0 1em;
 }
 
 .about-me {
